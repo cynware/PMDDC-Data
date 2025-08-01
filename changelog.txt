@@ -1,0 +1,7 @@
+1.0.0
+This is the current version changelog!
+Well... we just released so theres not much patching....
+
+-Released the thing
+-Uhhh we finished the thing
+-Yea its awesome isn't it?
