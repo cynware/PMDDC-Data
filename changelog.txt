@@ -1,2 +1,6 @@
-1.0.0
-Hey bog hehehehe
+1.1.0
+This update addresses some issues with the v1.0.0 build.
+
+-Reworked SFX System!
+-Bugfixes!
+-Stability improvements!
