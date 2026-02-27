@@ -1,6 +1,8 @@
-1.1.0
-This update addresses some issues with the v1.0.0 build.
+2.0.0
+A major update has released that adds multiple new features:
 
--Reworked SFX System!
--Bugfixes!
--Stability improvements!
+- Overhauled and more User-Friendly Text Editor & UI!
+- Overhauled Portrait System!
+- Customizeable Dialogue Prompt boxes!
+- Built-In backgrounds from PMD: Explorers!
+- ... And more! (Github is still being pushed out!)
