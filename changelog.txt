@@ -5,4 +5,4 @@ A major update has released that adds multiple new features:
 - Overhauled Portrait System!
 - Customizeable Dialogue Prompt boxes!
 - Built-In backgrounds from PMD: Explorers!
-- ... And more! (Github is still being pushed out!)
+- ... And more!
