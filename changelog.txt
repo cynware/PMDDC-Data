@@ -3,6 +3,6 @@ A major update has released that adds multiple new features:
 
 - Overhauled and more User-Friendly Text Editor & UI!
 - Overhauled Portrait System!
-- Customizeable Dialogue Prompt boxes!
+- Customizable Dialogue Prompt boxes!
 - Built-In backgrounds from PMD: Explorers!
 - ... And more!
